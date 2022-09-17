@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fabio.dsv@hotmail.com
+	name = Fabio Da Silva
